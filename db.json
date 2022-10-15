@@ -55,7 +55,7 @@
       "tag": "Technology",
       "photo": "assets/images/blog/blog-1.png",
       "id": "AbBzj5c"
-    },
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
