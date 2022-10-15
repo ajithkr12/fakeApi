@@ -1,9 +1,7 @@
-{
-  "blogs": [
-    {
-      "tittle": "Journey of tinQbits",
-      "s_description": "abc.",
-      "author": "Sreejith Shaji"
-    }
-  ]
-}
+[
+  {
+    "tittle": "Journey of tinQbits",
+    "s_description": "abc.",
+    "author": "Sreejith Shaji"
+   }
+]
